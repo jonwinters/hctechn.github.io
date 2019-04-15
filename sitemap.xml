@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hctechnology.gitlab.io/posts/about/</loc>
+    <loc>https://www.hctechn.com/posts/about/</loc>
     <lastmod>2019-03-30T14:54:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hctechnology.gitlab.io/</loc>
+    <loc>https://www.hctechn.com/</loc>
     <lastmod>2019-03-30T14:54:04+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hctechnology.gitlab.io/posts/</loc>
+    <loc>https://www.hctechn.com/posts/</loc>
     <lastmod>2019-03-30T14:54:04+01:00</lastmod>
     <priority>0</priority>
   </url>
